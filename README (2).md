@@ -2,7 +2,7 @@
 
 A responsive e-commerce web application for natural skincare, haircare, body care, baby care and wellness products. It includes a shopping cart, a multi-step checkout, a face-scan skin analyzer and an AI-style product suggester, all built with plain HTML, CSS and JavaScript.
 
-> Live demo: add your GitHub Pages link here after you enable it (see "Deploy" below).
+> Live demo: https://shrusawant03.github.io/purebloom-naturales/
 
 ## Features
 
